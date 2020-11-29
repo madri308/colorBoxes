@@ -8,7 +8,8 @@ screen=pygame.display.set_mode(size)
 #Declaro los colores que se van a utilizar
 negro = (0,0,0)
 blanco = (255,255,255)
-colores = [ (114, 106, 149) , (112, 159, 176) , (160, 193, 184) , (244, 235, 193) , (160, 118, 118)]
+#               morado              azul           naranja                 crema           cafe              
+colores = [ (114, 106, 149) , (112, 159, 176) , (238, 127, 30) , (245, 231, 141) , (160, 118, 118)]
 
 screen.fill(negro) #Pinto la ventana de negro
 
